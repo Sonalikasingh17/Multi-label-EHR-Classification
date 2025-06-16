@@ -65,7 +65,9 @@ On the validation set:
 - Generated a `submission.csv` with predictions for the test set:
 
   ID,Labels
+  
   1,G56.21
+  
   2,M65.9;S83.242A
 ...
 
@@ -94,4 +96,6 @@ Install via:
 ```bash
 pip install numpy pandas scikit-learn tensorflow
 ```
-
+## Author
+Sonalika Singh
+IIT Madras
