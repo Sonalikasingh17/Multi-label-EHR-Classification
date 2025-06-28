@@ -3,7 +3,7 @@
 This repository contains the implementation for a **multi-label classification** model applied to Electronic Health Records (EHRs), aiming to predict ICD10 codes using **deep learning**. This was developed as part of the DA5401 End-Semester Machine Learning Challenge.
 
 ---
-
+ 
 ## Project Overview   
 
 The task involves assigning one or more ICD10 codes to each medical record represented by 1024-dimensional embeddings. These embeddings are used to train a deep neural network capable of predicting multiple diagnosis codes per record.
