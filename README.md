@@ -10,7 +10,7 @@ The task involves assigning one or more ICD10 codes to each medical record repre
 
 ---
 
-##  Dataset Description 
+##  Dataset Description  
 
 - **Input**: Two sets of `.npy` embeddings (`embeddings1.npy`, `embeddings2.npy`) each with shape `[n_samples, 1024]`.
 - **Labels**: A text file (`labels.txt`) with ICD10 codes per line, separated by semicolons `;`.
