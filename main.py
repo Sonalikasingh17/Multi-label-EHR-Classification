@@ -7,7 +7,7 @@ import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout, LeakyReLU
 from tensorflow.keras.optimizers.schedules import CosineDecay
-from tensorflow.keras.optimizers import Adam
+from tensorflow.keras.optimizers import Adam 
 
 # ------------------------------
 # Load Embeddings and Labels
