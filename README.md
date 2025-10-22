@@ -4,7 +4,7 @@ This repository contains the implementation for a **multi-label classification**
 
 ---
  
-## Project Overview
+## Project Overview 
  
 The task involves assigning one or more ICD10 codes to each medical record represented by 1024-dimensional embeddings. These embeddings are used to train a deep neural network capable of predicting multiple diagnosis codes per record.
 
